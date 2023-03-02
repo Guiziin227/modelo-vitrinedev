@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Projeto HTML e CSS 7 dias alura
 
 Rápida descrição do objetivo de fazer esse projeto
 
